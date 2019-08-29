@@ -1,0 +1,23 @@
+data/SQL/CRM query scratchpad.sql.i
+data/SQL/BreezewayScratchpad.sql.i
+data/.hgignore.i
+data/SQL/ProductivityReport.sql.i
+data/SQL/CreateBreezewayTables.sql.i
+data/SQL/TicketQueries.sql.i
+data/large-Acme_Logo_Grey.png.i
+data/favicon.ico.i
+data/.git/description.i
+data/.git/hooks/applypatch-msg.sample.i
+data/.git/hooks/pre-receive.sample.i
+data/.git/hooks/pre-push.sample.i
+data/.git/hooks/commit-msg.sample.i
+data/.git/hooks/pre-commit.sample.i
+data/.git/config.i
+data/.git/hooks/post-update.sample.i
+data/.git/hooks/fsmonitor-watchman.sample.i
+data/.git/hooks/pre-rebase.sample.i
+data/.git/info/exclude.i
+data/.git/hooks/pre-applypatch.sample.i
+data/.git/hooks/update.sample.i
+data/.git/hooks/prepare-commit-msg.sample.i
+data/.git/HEAD.i
